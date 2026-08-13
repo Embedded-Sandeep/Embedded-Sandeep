@@ -21,40 +21,6 @@ I design, develop, validate and maintain production-quality embedded software, w
 - **Platforms:** ARM, Raspberry Pi, BeagleBone Black, NXP i.MX6/i.MX7/i.MX8M Mini, Qualcomm Snapdragon SA8155P/SA8195P, STM32
 - **Simulation / Validation:** QEMU, Zebu, Simics, FSDB/readback analysis, register/BAR programming
 
-## 🚀 Professional Highlights
-
-### Fluence – A Siemens & AES Company | Software Lead (Embedded)
-**May 2023 – Dec 2025**
-
-- Designed and enhanced Linux High Availability software using **Pacemaker, Corosync and custom OCF Resource Agents**.
-- Developed POSIX shared-memory IPC using atomic operations, semaphores and synchronization mechanisms.
-- Automated cluster provisioning, QDevice configuration, deployment and regression validation using **Google Test, OCFT, Docker and Bash**.
-- Authored HLD/LLD and Doxygen documentation and contributed to architecture reviews, code reviews and defect resolution.
-
-### L4B Software | Senior Embedded Linux Engineer
-**Oct 2022 – Apr 2023**
-
-- Customized **Yocto BSPs** for Qualcomm Snapdragon automotive platforms.
-- Developed and maintained BitBake recipes and `.bbappend` extensions.
-- Performed Linux kernel configuration, RootFS/image customization and SDK generation.
-- Optimized Yocto builds using **SSTATE, incremental builds, devtool and BitBake devshell**.
-- Integrated and executed **Linux Test Project (LTP)** and supported Jenkins-based build verification.
-- Debugged BSP integration, cross-compilation and third-party package issues.
-
-### GlobalEdge Software Limited | Technical Lead
-**Jan 2021 – Oct 2022**
-
-- Performed SoC firmware validation for Silicon Labs MCU platforms.
-- Enhanced NXP RT1170/RT1060 Wi-Fi firmware using **Embedded C, FreeRTOS and MCUXpresso SDK**.
-- Resolved **MISRA and Coverity** issues across Keil, IAR and Arm GCC environments.
-- Supported software integration, customer releases, documentation and knowledge transfer.
-
-### UST Global | Senior Embedded Software Lead
-**Jul 2018 – Apr 2020**
-
-- Developed automated **Google Test** unit tests and generated LCOV code-coverage reports.
-- Performed Intel EHL SoC firmware validation using **Zebu, Simics, FSDB/readback analysis and register programming**.
-
 ## 🧪 Advanced Yocto Hands-on / Personal Lab
 
 I maintain hands-on experience building custom Embedded Linux distributions using **Yocto Project Scarthgap** for Raspberry Pi, BeagleBone Black, NXP i.MX and STM32 platforms.
